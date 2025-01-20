@@ -39,3 +39,13 @@ This repository showcases my implementations of various reinforcement learning a
 - **Frameworks & Libraries:** TensorFlow, PyTorch, NumPy, OpenAI Gym  
 - **Concepts:** Reinforcement Learning, Deep Learning, Game Theory  
 
+## 📈 Key Learnings
+- Applying reinforcement learning to complex environments without human intervention.
+- Implementing AI systems that adapt through self-play and experience.
+- Understanding the balance between exploration and exploitation in AI decision-making.
+
+## 📬 Contact
+For questions or collaboration opportunities, feel free to reach out:
+- **Email:** [coralb2001@gmail.com](mailto:coralb2001@gmail.com)  
+- **LinkedIn:** [Coral Bahofrker](https://www.linkedin.com/in/coral-borafker-389838214/)  
+- **GitHub:** [Coral Bahofrker](https://github.com/coral555) 
