@@ -36,7 +36,7 @@ This repository showcases my implementations of various reinforcement learning a
 ## 🛠️ Technologies Used
 
 - **Programming Language:** Python  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, NumPy, OpenAI Gym  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, NumPy etc. 
 - **Concepts:** Reinforcement Learning, Deep Learning, Game Theory  
 
 ## 📈 Key Learnings
